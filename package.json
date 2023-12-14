@@ -66,6 +66,7 @@
   "workspaces": {
     "packages": [
       "packages/infra",
+      "packages/server",
       "packages/webapp"
     ]
   },
